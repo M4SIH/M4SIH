@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @M4SIH
+- 👋 Hi, I’m Masih Hamidi
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Angular , asp.net core , react
+- 🌱 I’m currently learning Angular , asp.net core , React
 - 💞️ I’m looking to collaborate on web app
 - 📫 How to reach me => amir.hoseyn.hamidi@gmail.com
 
